@@ -5,7 +5,15 @@ import img4 from "./assets/blogs/1.png";
 import img5 from "./assets/blogs/6.jpg";
 import img6 from "./assets/blogs/4.png";
 // projects img
-import project1 from "./assets/projects/1.png";
+import project0 from "./assets/projects/1.png";
+import project1 from "./assets/projects/2.png";
+import project2 from "./assets/projects/3.png";
+import project3 from "./assets/projects/4.png";
+import project4 from "./assets/projects/5.png";
+import project5 from "./assets/projects/6.png";
+import project6 from "./assets/projects/7.png";
+import project7 from "./assets/projects/9.png";
+import project8 from "./assets/projects/11.png";
 
 export const blogsData = [
   {
@@ -229,44 +237,50 @@ export const projectsData = [
   },
   {
     id: 2,
-    title: "Brainwave",
-    link: "https://brainwave-live-p.vercel.app/",
-    imagelink: project1,
+    title: "Riad osman Profile",
+    link: "https://riadosman.vercel.app/",
+    imagelink: project2,
   },
   {
     id: 3,
-    title: "Brainwave",
-    link: "https://brainwave-live-p.vercel.app/",
-    imagelink: project1,
+    title: "Apple Iphone 15 pro",
+    link: "https://apple-app-tau.vercel.app/",
+    imagelink: project3,
   },
   {
     id: 4,
-    title: "Brainwave",
-    link: "https://brainwave-live-p.vercel.app/",
-    imagelink: project1,
+    title: "Asil Books",
+    link: "https://asil-books.vercel.app/",
+    imagelink: project4,
   },
   {
     id: 5,
-    title: "Brainwave",
-    link: "https://brainwave-live-p.vercel.app/",
-    imagelink: project1,
+    title: "Dashboard",
+    link: "https://next-dashboard-one-ebon.vercel.app/",
+    imagelink: project5,
   },
   {
     id: 6,
-    title: "Brainwave",
-    link: "https://brainwave-live-p.vercel.app/",
-    imagelink: project1,
+    title: "Ramita Media",
+    link: "https://ramitamedia.com/",
+    imagelink: project6,
   },
   {
     id: 7,
-    title: "Brainwave",
-    link: "https://brainwave-live-p.vercel.app/",
-    imagelink: project1,
+    title: "Şeyben Giyim",
+    link: "https://seybangiyim.vercel.app/",
+    imagelink: project7,
   },
   {
     id: 8,
-    title: "Brainwave",
-    link: "https://brainwave-live-p.vercel.app/",
-    imagelink: project1,
+    title: "Foodera Resturant",
+    link: "https://riadosman.github.io/Foodera-Resturant/",
+    imagelink: project8,
+  },
+  {
+    id: 9,
+    title: "IBN ALOUD",
+    link: "https://www.ibnaloud.com/",
+    imagelink: project0,
   },
 ];

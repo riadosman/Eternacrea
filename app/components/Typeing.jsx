@@ -35,7 +35,7 @@ export default function Typing() {
   const splitText = text.split("\n");
   return (
     <div className="text-white container flex items-center justify-center flex-col w-full min-h-[90vh]">
-      <h1 className="lg:text-7xl text-5xl font-bold mb-5 leading-relaxed">
+      <h1 className="lg:text-7xl text-5xl font-bold mb-5 lg:leading-relaxed leading-normal">
         {splitText[0]}
       </h1>
       {splitText[1] && (
