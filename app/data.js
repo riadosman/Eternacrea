@@ -4,6 +4,9 @@ import img3 from "./assets/blogs/3.png";
 import img4 from "./assets/blogs/1.png";
 import img5 from "./assets/blogs/6.jpg";
 import img6 from "./assets/blogs/4.png";
+// projects img
+import project1 from "./assets/projects/1.png";
+
 export const blogsData = [
   {
     id: 1,
@@ -214,5 +217,56 @@ export const blogsData = [
         ],
       },
     ],
+  },
+];
+
+export const projectsData = [
+  {
+    id: 1,
+    title: "Brainwave",
+    link: "https://brainwave-live-p.vercel.app/",
+    imagelink: project1,
+  },
+  {
+    id: 2,
+    title: "Brainwave",
+    link: "https://brainwave-live-p.vercel.app/",
+    imagelink: project1,
+  },
+  {
+    id: 3,
+    title: "Brainwave",
+    link: "https://brainwave-live-p.vercel.app/",
+    imagelink: project1,
+  },
+  {
+    id: 4,
+    title: "Brainwave",
+    link: "https://brainwave-live-p.vercel.app/",
+    imagelink: project1,
+  },
+  {
+    id: 5,
+    title: "Brainwave",
+    link: "https://brainwave-live-p.vercel.app/",
+    imagelink: project1,
+  },
+  {
+    id: 6,
+    title: "Brainwave",
+    link: "https://brainwave-live-p.vercel.app/",
+    imagelink: project1,
+  },
+  {
+    id: 7,
+    title: "Brainwave",
+    link: "https://brainwave-live-p.vercel.app/",
+    imagelink: project1,
+  },
+  {
+    id: 8,
+    title: "Brainwave",
+    link: "https://brainwave-live-p.vercel.app/",
+    imagelink: project1,
   },
 ];
