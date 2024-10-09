@@ -17,7 +17,7 @@ function PricingForm() {
     // يمكنك هنا معالجة البيانات المرسلة أو حفظها
     console.log("تم إرسال النموذج:", selectedPlan);
 
-    const phoneNumber = "+905528962241"; // استبدل برقمك
+    const phoneNumber = "+905051961934"; // استبدل برقمك
 
     // نص الرسالة المكون من البيانات المدخلة
     const message = `تفاصيل العميل:\nالاسم: ${name}\nالبريد الإلكتروني: ${email}\nالباقة المختارة: ${selectedPlan}`;

@@ -12,7 +12,7 @@ function Registration() {
 
   const handleWhatsAppSend = () => {
     if (validateForm()) {
-      const phoneNumber = "+905528962241"; // Replace with your phone number
+      const phoneNumber = "+905051961934"; // Replace with your phone number
       const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
         `Email: ${email}\nMessage: ${message}`
       )}`;
