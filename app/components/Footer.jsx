@@ -34,7 +34,7 @@ function Footer() {
               تصميم الموقع
             </Link>
           </li>
-            <li>
+          <li>
             <Link href="/blogs">المقالات</Link>
           </li>
         </ul>
@@ -75,7 +75,7 @@ function Footer() {
           </li>
           <li>
             <Link
-              href="https://wa.me/+905528962241" // استبدل "yourPhoneNumber" برقم واتساب الخاص بك مع رمز البلد
+              href="https://wa.me/+905051961934" // استبدل "yourPhoneNumber" برقم واتساب الخاص بك مع رمز البلد
               className="flex items-center gap-2 text-sm hover:text-pink-500"
               target="_blank"
               rel="noopener noreferrer"
